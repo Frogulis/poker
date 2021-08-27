@@ -1,0 +1,32 @@
+body {
+  background-image: url(./bg.png);
+  background-size: auto;
+  background-position: auto;
+  background-repeat: repeat;
+  color: rgb(31, 31, 31);
+  font-family: Helvetica, Arial, sans-serif;
+  
+  font-size: 1.5rem;
+  text-align: center;
+  overflow: hidden;
+}
+
+main {
+  background-color: rgb(196, 207, 161);
+  margin: 30px;
+  margin-top: 70px;
+  padding: 30px;
+  border-radius: 20px;
+  border-style: double;
+  border-width: 10px;
+  border-color: rgb(77, 83, 60);
+}
+
+.little {
+  margin-top: 100px;
+  font-size: 0.7rem;
+}
+
+a {
+  color: rgb(77, 83, 60);
+}
